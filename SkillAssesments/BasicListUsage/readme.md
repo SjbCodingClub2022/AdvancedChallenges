@@ -11,7 +11,7 @@ Your solution should be housed in a file named 'solution.py'
 
 # Problem
 
-You are tasked with finding the boolean result of whether each integer in the list, provided for you, is GREATER than FIVE
+You are tasked with finding the boolean result of whether each integer in the list GREATER than FIVE
 
 The the boolean values will be stored in a new list, that you will be required to define
 
