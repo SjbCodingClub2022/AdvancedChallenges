@@ -1,7 +1,7 @@
 # Basic List Usage
 This task will assess your basic knowledge on lists in python
 
-# Info
+## Info
 
 There is a list provided for you in 'problem.py'
 
@@ -9,7 +9,7 @@ The list consists of ten integers
 
 Your solution should be housed in a file named 'solution.py'
 
-# Problem
+## Problem
 
 You are tasked with finding the boolean result of whether each integer in the list GREATER than FIVE
 
