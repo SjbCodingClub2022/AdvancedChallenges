@@ -1,5 +1,5 @@
 # Basic Dictionary Usage
-This task will asess your knowledge of dictionary usage in python
+This task will assess your knowledge of dictionary usage in python
 
 ## Info 
 There is a dictionary provided for you in 'problem.py'
