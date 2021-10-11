@@ -1,5 +1,5 @@
 # String Manipulation
-This task will assess your knowledge on strings, user inputs and functions
+This task will assess your knowledge of strings, user inputs and functions
 
 ## Info
 Your solution should be housed in a file named 'solution.py'
