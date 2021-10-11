@@ -1,10 +1,15 @@
 # Basic List Usage
 This task will assess your basic knowledge on lists in python
 
+# Info
 
 Their is a list provided for you in 'problem.py'
+
 The list consists of ten integers
+
 Your solution should be housed in a file named 'solution.py'
+
+# Problem
 
 You are tasked with finding the boolean result of whether each integer in the list, provided for you, is GREATER than FIVE
 
