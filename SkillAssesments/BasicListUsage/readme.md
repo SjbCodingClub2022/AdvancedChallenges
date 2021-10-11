@@ -1,4 +1,4 @@
-## Basic List Usage
+# Basic List Usage
 This task will assess your basic knowledge on lists in python
 
 Their is a list provided for you in 'problem.py'
@@ -11,6 +11,6 @@ After this is done, print the whole list to the console
 
 note: import the list from problem.py to solution.py, DO NOT COPY AND PASTE IT 
 
-# Desired Outcome
+## Desired Outcome
 
 [True, False, True, True, False, True, True, True, False, False]
