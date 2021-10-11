@@ -13,4 +13,4 @@ note: import the list from problem.py to solution.py, DO NOT COPY AND PASTE IT
 
 ## Desired Outcome
 
-[True, False, True, True, False, True, True, True, False, False]
+    [True, False, True, True, False, True, True, True, False, False]
