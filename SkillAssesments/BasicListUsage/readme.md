@@ -9,9 +9,9 @@ The list consists of ten integers
 Your solution should be housed in a file named 'solution.py'
 
 ## Problem
-You are tasked with finding the boolean result of whether each integer in the list GREATER than FIVE
+You are tasked with finding the boolean result of whether each integer in the list is GREATER than FIVE
 
-The the boolean values will be stored in a new list, that you will be required to define
+The boolean values will be stored in a new list, that you will be required to define
 
 After this is done, print the whole list to the console
 
