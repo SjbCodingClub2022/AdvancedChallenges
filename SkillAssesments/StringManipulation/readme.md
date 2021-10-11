@@ -11,7 +11,7 @@ The parameter will consist of a first name and last name seperated by a space, i
 
 The function will return a list with the following desired outcome
 
-    [first_name, last_name, "first_initial" + "." + "last_initial", full_name_uppercast, full_name_lowercase]
+    [first_name, last_name, "first_initial" + "." + "last_initial", full_name_uppercase, full_name_lowercase]
 
 Here is the list with the parameter 'Andre Ceschia'
 
