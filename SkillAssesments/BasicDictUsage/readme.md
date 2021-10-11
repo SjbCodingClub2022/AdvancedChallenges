@@ -10,9 +10,11 @@ Your solution should be housed in a file named 'solution.py'
 
 ## Problem
 Each item in the dictionary is formatted like this:
+
     "Celebrity Name": "Occupation"
 
 For each item in the dictionary print the following statement
+
     "Celebrity Name" is famous for "Occupation"!
 
 note: import the list from problem.py to solution.py, DO NOT COPY AND PASTE IT 
